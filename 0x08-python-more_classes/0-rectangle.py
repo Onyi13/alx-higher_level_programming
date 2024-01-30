@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-"""
-This script defines a simple Rectangle class.
-"""
+"""This script defines a simple Rectangle class."""
 class Rectangle:
-    """
-    Represents a rectangle.
-    """
+    """Represents a rectangle."""
     pass
